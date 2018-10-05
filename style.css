@@ -1,15 +1,25 @@
-* {
-  color: DarkRed;
+body {
+  margin: 0 auto;
+  max-width: 50 em;
+  font-family: 'Helvetica', 'Arial', sans-serif;
+  line-height: 1.5;
+  padding: 4em 1em;
+  color: #555;
 }
 
-li {
-  color: PaleVioletRed;
+h1, h2, h3, h4, h5, h6 {
+  margin-top: 1em;
+  padding-top: 1em;
+  color: #333;
 }
 
-#punainen {
-  color: Red;
+a {
+padding: 2px 4px;
+vertical-align: text-bottom;
+text-decoration: none;
+color: CadetBlue;
 }
 
-h1 {
-  color: Blue;
-}
+
+
+
